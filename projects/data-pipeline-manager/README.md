@@ -1,7 +1,7 @@
 # What is this project about?
 Data Pipeline Manager is a cloud-native backend application for managing and monitoring data pipelines.
 
-# Why I build this?
+# Why I built this?
 This project is being built as a hands-on project to learn and demonstrate modern cloud-native development using Python, FastAPI, Docker, Kubernetes, Google Cloud Platform.
 
 # What is the end goal?
